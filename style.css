@@ -1,0 +1,33 @@
+body 
+{
+  padding: 10px;
+}
+.sectionsColor 
+{
+  color:red;
+}
+
+.container 
+{
+  border: 1px solid black;
+  margin: auto;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+img
+{
+  width: 100%;
+}
+
+.assetImg 
+{
+  width: 500px;
+  height: 300px;
+}
+
+.iconImages 
+{
+  width: 80px;
+  height: 80px;
+}
